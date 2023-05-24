@@ -1,0 +1,67 @@
+{
+  "public/assets/img/malaysia.png": {
+    "file": "assets/malaysia.8fffa0d4.png",
+    "src": "public/assets/img/malaysia.png"
+  },
+  "public/assets/img/logo/1.png": {
+    "file": "assets/1.b328b0ac.png",
+    "src": "public/assets/img/logo/1.png"
+  },
+  "public/assets/img/logo/3.png": {
+    "file": "assets/3.5187a218.png",
+    "src": "public/assets/img/logo/3.png"
+  },
+  "public/assets/doc/resume_en.png": {
+    "file": "assets/resume_en.33bb988a.png",
+    "src": "public/assets/doc/resume_en.png"
+  },
+  "public/assets/img/photo1.png": {
+    "file": "assets/photo1.4ec26603.png",
+    "src": "public/assets/img/photo1.png"
+  },
+  "public/assets/img/photo2.png": {
+    "file": "assets/photo2.c87b90ec.png",
+    "src": "public/assets/img/photo2.png"
+  },
+  "public/assets/img/construct.png": {
+    "file": "assets/construct.01405b1a.png",
+    "src": "public/assets/img/construct.png"
+  },
+  "public/assets/img/localization/english.png": {
+    "file": "assets/english.562f449c.png",
+    "src": "public/assets/img/localization/english.png"
+  },
+  "public/assets/img/localization/bahasa.png": {
+    "file": "assets/bahasa.687f3d40.png",
+    "src": "public/assets/img/localization/bahasa.png"
+  },
+  "public/assets/img/localization/jawi.png": {
+    "file": "assets/jawi.5d323590.png",
+    "src": "public/assets/img/localization/jawi.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.99451a16.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.335977bf.css"
+    ],
+    "assets": [
+      "assets/bahasa.687f3d40.png",
+      "assets/english.562f449c.png",
+      "assets/jawi.5d323590.png",
+      "assets/1.b328b0ac.png",
+      "assets/malaysia.8fffa0d4.png",
+      "assets/photo1.4ec26603.png",
+      "assets/photo2.c87b90ec.png",
+      "assets/resume_en.33bb988a.png",
+      "assets/3.5187a218.png",
+      "assets/construct.01405b1a.png"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.335977bf.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
